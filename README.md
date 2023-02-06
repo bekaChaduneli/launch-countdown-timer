@@ -16,8 +16,8 @@
 
 ### Links
 
-- Solution URL: [GitHub](https://bekaChaduneli.github.io/launch-countdown-timer)
-- Live Site URL: [Live URL](https://github.com/bekaChaduneli/launch-countdown-timer)
+- Live Site URL: [GitHub](https://bekaChaduneli.github.io/launch-countdown-timer)
+- Solution URL: [Live URL](https://github.com/bekaChaduneli/launch-countdown-timer)
 
 ## My process
 
