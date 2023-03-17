@@ -5,7 +5,7 @@ const minutesBackground = document.querySelector(".minutes-timer-background");
 const secondsBackground = document.querySelector(".seconds-timer-background");
 
 const countDown = () => {
-    const endDate = new Date("april, 31, 2023 20:17:00").getTime()
+    const endDate = new Date("june, 31, 2024 20:17:00").getTime()
     const now = new Date().getTime()
     
     const difference  = endDate - now
